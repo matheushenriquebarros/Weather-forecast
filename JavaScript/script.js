@@ -1,3 +1,4 @@
+/*! Desenvolvido por MTHBARROS · mthbarros.com.br | Agência Fellow Ship · agenciafellowship.com.br */
 const key = "d82c691a9a47300f567b90bf749e9e28";
 
 function DadosNaTela(dados){
